@@ -1,0 +1,2 @@
+Currently Game is running perfectly fine and Smoothly on both server client side. It is working as we expected.
+Only take care of good internet connection and not use mouse of Computer While playing the Game.
